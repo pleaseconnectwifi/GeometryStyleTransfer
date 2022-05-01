@@ -1,0 +1,5 @@
+datasets/
+new/
+runs/
+*.pkl
+*.pyc

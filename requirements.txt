@@ -1,0 +1,24 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+cudatoolkit=11.0.221=h6bb024c_0
+future=0.18.2=pypi_0
+h5py=3.1.0=pypi_0
+imageio=2.9.0=pypi_0
+imageio-ffmpeg=0.4.3=pypi_0
+importlib-metadata=3.4.0=pypi_0
+joblib=1.0.0=pypi_0
+jpeg=9b=h024ee3a_2
+lmdb=1.2.1=pypi_0
+matplotlib=3.3.3=pypi_0
+numpy=1.20.2=pypi_0
+python=3.7.9=h7579374_0
+pytorch=1.7.1=py3.7_cuda11.0.221_cudnn8.0.5_0
+scikit-image=0.19.1=pypi_0
+scikit-learn=0.24.1=pypi_0
+scipy=1.6.0=pypi_0
+sklearn=0.0=pypi_0
+tqdm=4.56.0=pypi_0
+urllib3=1.26.2=pypi_0
+visdom=0.1.8.9=pypi_0
+wheel=0.36.2=pyhd3eb1b0_0
